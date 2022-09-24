@@ -1,2 +1,2 @@
 # images
-Store my images and screenshots from my extensions
+Storage of my images and screenshots of my extensions
